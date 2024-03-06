@@ -1,2 +1,2 @@
 # project
-Average costs per city
+Table of average costs per city
